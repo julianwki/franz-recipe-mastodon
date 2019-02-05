@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Mastodon, the social media network server",
   "main": "index.js",
-  "author": "Julian Wiersbitzki",
+  "author": "Julian Wiersbitzki <julian@wiersbitzki.com>",
   "license": "MIT",
   "repository": "https://github.com/julianwki/franz-recipe-mastodon",
   "config": {

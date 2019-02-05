@@ -1,5 +1,6 @@
 # Mastodon for Franz
-This is a Franz recipe for a Mastodon instance
+This is a Franz recipe for a Mastodon instance.
 
-### How to create your own Franz recipes:
-* [Read the documentation](https://github.com/meetfranz/plugins)
+## Global recipe repository
+Help me to get this recipe into the global repository, just react to my deployment issue: [Deploy Mastodon](https://github.com/meetfranz/plugins/issues/274)
+
