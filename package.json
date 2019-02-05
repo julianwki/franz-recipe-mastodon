@@ -9,6 +9,7 @@
   "repository": "https://github.com/julianwki/franz-recipe-mastodon",
   "config": {
     "hasNotificationSound": true,
-    "hasCustomUrl": true
+    "serviceURL": "https://chaos.social/web",
+    "hasCustomUrl": false
   }
 }
